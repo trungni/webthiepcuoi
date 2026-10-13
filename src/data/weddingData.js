@@ -1,34 +1,34 @@
 export const initialWeddingData = {
   // Couple Information
   groom: {
-    fullName: "Võ Hải Nam",
-    shortName: "Hải Nam",
-    roleLabel: "Trưởng Nam",
-    father: "Võ Nhật Minh",
-    mother: "Trần Thu Thảo",
-    address: "63 Nguyễn Huệ, Quận 1, TP. Hồ Chí Minh",
+    fullName: "Nguyễn Ích Trung",
+    shortName: "Ích Trung",
+    roleLabel: "Chú rể",
+    father: "Nguyễn Ích Dũng",
+    mother: "Nguyễn Thị Bích Lộc",
+    address: "35 Phủ Doãn, Hoàn Kiếm, Hà Nội",
     bank: {
       bankName: "Vietcombank",
       bankCode: "VCB",
-      bankBin: "970436",
-      accountName: "VO HAI NAM",
-      accountNumber: "123456789",
+      bankBin: "",
+      accountName: "NGUYEN ICH TRUNG",
+      accountNumber: "NGUYEN ICH TRUNG",
       qrUrl: "https://img.vietqr.io/image/VCB-123456789-compact2.png?amount=0&addInfo=Mung%20cuoi%20Hai%20Nam&accountName=VO%20HAI%20NAM"
     }
   },
   bride: {
-    fullName: "Huỳnh Khánh Linh",
-    shortName: "Khánh Linh",
-    roleLabel: "Út Nữ",
-    father: "Huỳnh Thanh Nam",
-    mother: "Nguyễn Thị Kim Oanh",
-    address: "456 Lê Lợi, Quận 3, TP. Hồ Chí Minh",
+    fullName: "Lê Quỳnh Vi",
+    shortName: "Quỳnh Vi",
+    roleLabel: "Cô dâu",
+    father: "Lê Hải Anh",
+    mother: "Nguyễn Thị Kim Anh",
+    address: "32 Hàng Bài, Cửa Nam, Hà Nội",
     bank: {
-      bankName: "BIDV",
-      bankCode: "BIDV",
-      bankBin: "970418",
+      bankName: "VIETINBANK",
+      bankCode: "VIETINBANK",
+      bankBin: "",
       accountName: "HUYNH KHANH LINH",
-      accountNumber: "123456789",
+      accountNumber: "0942932222",
       qrUrl: "https://img.vietqr.io/image/BIDV-123456789-compact2.png?amount=0&addInfo=Mung%20cuoi%20Khanh%20Linh&accountName=HUYNH%20KHANH%20LINH"
     }
   },
@@ -50,19 +50,19 @@ export const initialWeddingData = {
   banquet: {
     title: "THÔNG TIN TIỆC CƯỚI",
     subTitle: "Tiệc cưới sẽ diễn ra vào lúc:",
-    time: "18:00",
-    receptionTime: "17:30",
+    time: "11:30",
+    receptionTime: "11:30",
     dayOfWeek: "THỨ BA",
     day: "17",
     month: "THÁNG 11",
     year: "2026",
     lunarDate: "Tức ngày 09 tháng 10 năm Bính Ngọ",
-    fullDateISO: "2026-11-17T18:00:00",
-    venueName: "Gala Center",
-    venueAddress: "415 Hoàng Văn Thụ, Phường 2, Tân Bình, Hồ Chí Minh",
+    fullDateISO: "2026-11-17T11:00:00",
+    venueName: "SOFTWATER",
+    venueAddress: "Số 42, Đường 9, Khu tập thể F361 An Dương, Phường Hồng Hà, Hà Nộih",
     googleMapsEmbedUrl: "https://maps.google.com/maps?q=Gala+Center,+415+Hoàng+Văn+Thụ,+Phường+2,+Tân+Bình,+Hồ+Chí+Minh&t=&z=16&ie=UTF8&iwloc=&output=embed",
-    googleMapsDirectionsUrl: "https://www.google.com/maps/dir/?api=1&destination=Gala+Center,+415+Hoàng+Văn+Thụ,+Phường+2,+Tân+Bình,+Hồ+Chí+Minh",
-    googleCalendarUrl: "https://www.google.com/calendar/render?action=TEMPLATE&text=Đám+cưới+Võ+Hải+Nam+&+Huỳnh+Khánh+Linh&dates=20261117T110000Z/20261117T140000Z&ctz=Asia/Ho_Chi_Minh&details=Tiệc+cưới+của+Võ+Hải+Nam+&+Huỳnh+Khánh+Linh+tại+Gala+Center,+415+Hoàng+Văn+Thụ,+Phường+2,+Tân+Bình,+Hồ+Chí+Minh&location=Gala+Center,+415+Hoàng+Văn+Thụ,+Phường+2,+Tân+Bình,+Hồ+Chí+Minh"
+    googleMapsDirectionsUrl: "https://www.google.com/maps/dir/21.0401038,105.8407837/Softwater+Restaurant,+42+%C4%90.+9,+T%E1%BA%ADp+th%E1%BB%83+F361+An+D%C6%B0%C6%A1ng,+H%E1%BB%93ng+H%C3%A0,+H%C3%A0+N%E1%BB%99i+100000,+Vi%E1%BB%87t+Nam/@21.0456214,105.8332766,15z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3135abb3bc3a75a9:0x8d7d3e603a3d6572!2m2!1d105.8454396!2d21.0512966?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+    googleCalendarUrl: "https://calendar.google.com/calendar/u/0/r/eventedit/NWlnYWUwdTVyNDJlZm1lcG90Ymk5cTdxZTMgdHJ1bmduaTE5ODhAbQ?pli=1"
   },
 
   // Hero & Photos
@@ -71,7 +71,7 @@ export const initialWeddingData = {
     {
       id: 1,
       title: "Ảnh cưới 1",
-      url: "https://assets.chungdoi.com/photo-library/design/e3d13b58ea92c96a322e9bcc54cfcf6f6a79f08239a0ed9a8d3a3aca48bba341.webp"
+      url: "E:\ANTIGRAVITY\WEB THIEP CUOI ONLINE\public\images"
     },
     {
       id: 2,
